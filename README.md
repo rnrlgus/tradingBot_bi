@@ -1,3 +1,3 @@
 # tradingBot_bi
 
-binance trading bot, base on future markets.
+binance trading bot, based on future markets.
